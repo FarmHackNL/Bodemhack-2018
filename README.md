@@ -65,4 +65,6 @@ Een moeilijkheid daarbij is de verschillende schaalnivo’s. Landbouwdata zijn g
 
 ### 4. Gebiedsarrangement
 
-TODO
+[MaxiMi](https://www.farmhack.nl/winnaar-maximi-op-weg-naar-nieuw-mineralenbeleid/) is het resultaat van een eerdere FarmHack hackathon. Het is een gebiedsarrangement waarbij de kwaliteit van het oppervlaktewater sturend is voor het agrarisch management. MaxiMi is door het Ministerie van LNV onderkend als een waardevolle benadering voor de toekomst. 
+
+**Kernvraag**: Er worden pilots voorbereid. Wat kan de MaxiMi-aanpak betekenen voor de Achterhoek?
