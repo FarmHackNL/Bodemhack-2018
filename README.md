@@ -39,7 +39,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
- - NDVI - speciaal voor deze hackathon heeft @robknapen een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke". Zie het mapje [data/NDVI/](data/NDVI/) in deze repository voor de bestanden en een beschrijving.
+ - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
 
 ## Challenges
 
