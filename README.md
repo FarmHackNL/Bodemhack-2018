@@ -1,6 +1,6 @@
 # FarmHack 
 
-[FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer. (en hier: de visser.)
+[FarmHack](farmhack.nl) mobiliseert coders, creatieven en domeinexperts op vraagstukken van de boer.
 
 ## Bodemhack 2018
 
@@ -27,7 +27,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
 
 ### WUR 
 
-- [AgroDataCube](http://agrodatacube.wur.nl) - A Big Open Data collection for Agri-Food Applications. De Cube is via een RESTful API te benaderen en bevat o.a. de volgende datasets
+- [AgroDataCube](http://agrodatacube.wur.nl) - A Big Open Data collection for Agri-Food Applications. De Cube is via een RESTful API te benaderen en bevat o.a. de volgende datasets:
   - Gewasregistratie van Nederland, 2012 – 2017.
   - Dagelijks weer van 50 KNMI meteostations, 01-01-1950 – 31-01-2018.
   - AHN2 data voor Nederland.
@@ -39,6 +39,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
+ - Voorbeeld code voor gebruik van de AgroDataCube en gemelde issues zijn te vinden op [GitHub](https://github.com/AgroDataCube).
  - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
 
 ## Challenges
