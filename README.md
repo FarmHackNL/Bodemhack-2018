@@ -16,19 +16,19 @@ De drie initiatiefnemers Vitens, Provincie Gelderland en WUR stellen data beschi
 
 Tijdens de hackathon zal data beschikbaar zijn over 
 
-- Weersgegevens
-- N balans per perceel
-- P balans per perceel
-- Bodemanalyses
+- [Weersgegevens 1994 - 2015](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/Weersgegevens) (CSV)
+- N balans per perceel (CSV)
+- P balans per perceel (CSV)
+- Bodemanalyses (CSV)
 
 ### Provincie Gelderland
 
-- [Geoddata van Provincie Gelderland](http://geoserver.prvgld.nl/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage) (WMS/WFS). Data uit deze lijst die betrekking heeft op bodem en water zal tijdens de hackathon op een harde schijf beschikbaar zijn.
+- [Geodata van Provincie Gelderland](http://geoserver.prvgld.nl/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage) (WMS/WFS). Data uit deze lijst die betrekking heeft op bodem en water zal tijdens de hackathon op een harde schijf beschikbaar zijn.
 - RGB Luchtfoto's (WMS): `http://rasters.prvgld.nl/erdas-iws/ogc/wms/Luchtfoto_<jaar>`. Vervang `<jaar>` door 1992, 2005, 2012, 2015, 2016 of 2017 om de foto's van het desbetreffend jaar op te halen.
 
 ### WUR 
 
-- [AgroDataCube](http://agrodatacube.wur.nl) - A Big Open Data collection for Agri-Food Applications. De Cube is via een RESTful API te benaderen en bevat o.a. de volgende datasets:
+- [AgroDataCube](http://agrodatacube.wur.nl) (RESTful API) - A Big Open Data collection for Agri-Food Applications. De Cube bevat o.a. de volgende datasets:
   - Gewasregistratie van Nederland, 2012 – 2017.
   - Dagelijks weer van 50 KNMI meteostations, 01-01-1950 – 31-01-2018.
   - AHN2 data voor Nederland.
@@ -40,8 +40,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
- - Voorbeeld code voor gebruik van de AgroDataCube en gemelde issues zijn te vinden op [GitHub](https://github.com/AgroDataCube).
- - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
+ - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
 
 ## Challenges
 
