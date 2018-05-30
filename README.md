@@ -28,6 +28,10 @@ Tijdens de hackathon zal data beschikbaar zijn over
 - [Geodata van Provincie Gelderland](http://geoserver.prvgld.nl/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage) (WMS/WFS). Data uit deze lijst die betrekking heeft op bodem en water zal tijdens de hackathon op een harde schijf beschikbaar zijn.
 - RGB Luchtfoto's (WMS): `http://rasters.prvgld.nl/erdas-iws/ogc/wms/Luchtfoto_<jaar>`. Vervang `<jaar>` door 1992, 2005, 2012, 2015, 2016 of 2017 om de foto's van het desbetreffend jaar op te halen.
 
+### Vitens
+
+- [vitens.lizard.net](vitens.lizard.net) - grondwaterkwantiteitsgegevens en de locaties van de meetpunten
+- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie `data/Vitens/DATALAB documentatie.pptx` voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt. 
 
 ### WUR 
 
