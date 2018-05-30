@@ -58,6 +58,11 @@ Voor deze hackathon maakt [DMS](https://www.dmsadvies.nl) de volgende datasets v
 - Bodem monsters - gegevens over o.a. Kalium, pH, stikstof en vele andere gehaaltes in de bodem rondom "De Marke" 
 - [Kringloopwijzer](https://www.verantwoordeveehouderij.nl/nl/mijnkringloopwijzer/KringloopWijzer-6.htm) gegevens voor de jaren 2015, 2016 en 2017
 
+### Overige bronnen
+
+- [Het Nationaal Georegister](http://nationaalgeoregister.nl) - de vindplaats van geo-informatie van Nederland.
+- [Publieke Dienstverlening Op de Kaart](https://www.pdok.nl/nl/pdok-producten) - digitale geo-informatie van de overheid
+
 ## Challenges
 
 ### 1. Data crunching
