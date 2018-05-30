@@ -20,6 +20,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
 - N balans per perceel (CSV)
 - P balans per perceel (CSV)
 - Bodemanalyses (CSV)
+- Beregeningsdata - gegevens over de beregeningsregime van de percelen voor de jaren 1994 - 2017
 
 ### Provincie Gelderland
 
