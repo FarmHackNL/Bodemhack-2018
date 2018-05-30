@@ -31,7 +31,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
 ### Vitens
 
 - [vitens.lizard.net](vitens.lizard.net) - grondwaterkwantiteitsgegevens en de locaties van de meetpunten
-- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie [data/Vitens/DATALAB documentatie.pptx](https://github.com/FarmHackNL/Bodemhack-2018/blob/master/data/Vitens/DATALAB%20documentatie.pptxs) voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt. 
+- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie [data/Vitens/DATALAB documentatie.pptx](https://github.com/FarmHackNL/Bodemhack-2018/raw/master/data/Vitens/DATALAB%20documentatie.pptx) voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt. 
 
 ### WUR 
 
