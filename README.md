@@ -42,7 +42,12 @@ Tijdens de hackathon zal data beschikbaar zijn over
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
- - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke". 
+ - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
+ 
+### Waterschap Rijn en IJssel
+
+- [waterdata.wrij.nl](http://waterdata.wrij.nl) (CSV) - meetgegevens en -informatie over a) **waterhoeveelheden**: waterstanden en afvoeren van oppervlaktewateren, grondwaterstanden en neerslag en b) **waterkwaliteit**: chemische en ecologische kwaliteit van oppervlaktewateren
+ 
 
 ## Challenges
 
