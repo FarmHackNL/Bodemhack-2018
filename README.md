@@ -16,7 +16,7 @@ De drie initiatiefnemers Vitens, Provincie Gelderland en WUR stellen data beschi
 
 Tijdens de hackathon zal data beschikbaar zijn over 
 
-- [Weersgegevens 1994 - 2015](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/Weersgegevens) (CSV)
+- [Weersgegevens 1994 - 2015](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/De%20Marke/weersgegevens) (CSV)
 - N balans per perceel (CSV)
 - P balans per perceel (CSV)
 - Bodemanalyses (CSV)
@@ -31,7 +31,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
 ### Vitens
 
 - [vitens.lizard.net](vitens.lizard.net) - grondwaterkwantiteitsgegevens en de locaties van de meetpunten
-- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie `data/Vitens/DATALAB documentatie.pptx` voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt. 
+- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie [data/Vitens/DATALAB documentatie.pptx](https://github.com/FarmHackNL/Bodemhack-2018/blob/master/data/Vitens/DATALAB%20documentatie.pptxs) voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt. 
 
 ### WUR 
 
@@ -47,7 +47,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
- - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
+ - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/WUR/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
  
 ### Waterschap Rijn en IJssel
 
