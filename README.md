@@ -23,8 +23,10 @@ Tijdens de hackathon zal data beschikbaar zijn over
 
 ### Provincie Gelderland
 
+- [open data gelderland](https://opendata.gelderland.nl) (WMS/WFS) - een overzicht van alle beschikbare en herbruikbare vrije data van de provincie Gelderland
 - [Geodata van Provincie Gelderland](http://geoserver.prvgld.nl/geoserver/web/?wicket:bookmarkablePage=:org.geoserver.web.demo.MapPreviewPage) (WMS/WFS). Data uit deze lijst die betrekking heeft op bodem en water zal tijdens de hackathon op een harde schijf beschikbaar zijn.
 - RGB Luchtfoto's (WMS): `http://rasters.prvgld.nl/erdas-iws/ogc/wms/Luchtfoto_<jaar>`. Vervang `<jaar>` door 1992, 2005, 2012, 2015, 2016 of 2017 om de foto's van het desbetreffend jaar op te halen.
+
 
 ### WUR 
 
@@ -40,7 +42,7 @@ Tijdens de hackathon zal data beschikbaar zijn over
   - Administratieve grenzen van provincies, gemeente, postcodegebieden uit 2015.
   - Volledige lijst met gewascodes (van de gewasregistratie).
   - Volledige lijst met bodemtypes en bodemcodes (van de bodemkaart 1:50.000).
- - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke".
+ - [NDVI](https://github.com/FarmHackNL/Bodemhack-2018/tree/master/data/NDVI) (GeoTIFF) - speciaal voor deze hackathon heeft [@robknapen](https://github.com/robknapen) een uitsnede gemaakt van de landelijke Normalized Difference Vegetation Index voor het gebied rondom "De Marke". 
 
 ## Challenges
 
