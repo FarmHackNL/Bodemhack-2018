@@ -48,6 +48,14 @@ Tijdens de hackathon zal data beschikbaar zijn over
 
 - [waterdata.wrij.nl](http://waterdata.wrij.nl) (CSV) - meetgegevens en -informatie over a) **waterhoeveelheden**: waterstanden en afvoeren van oppervlaktewateren, grondwaterstanden en neerslag en b) **waterkwaliteit**: chemische en ecologische kwaliteit van oppervlaktewateren
  
+ 
+### Dirksen Management Support 
+
+Voor deze hackathon maakt [DMS](https://www.dmsadvies.nl) de volgende datasets voor "De Marke" beschikbaar
+
+- Gewas monsters - gegevens over o.a. Kalium, Nitraat, Calcium en vele andere gehaaltes in het gewas rondom "De Marke"
+- Bodem monsters - gegevens over o.a. Kalium, pH, stikstof en vele andere gehaaltes in de bodem rondom "De Marke" 
+- [Kringloopwijzer](https://www.verantwoordeveehouderij.nl/nl/mijnkringloopwijzer/KringloopWijzer-6.htm) gegevens voor de jaren 2015, 2016 en 2017
 
 ## Challenges
 
