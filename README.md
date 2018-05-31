@@ -56,10 +56,10 @@ Tijdens de hackathon zal data beschikbaar zijn over
  
 ### Dirksen Management Support 
 
-Voor deze hackathon maakt [DMS](https://www.dmsadvies.nl) de volgende datasets voor "De Marke" beschikbaar
+Voor deze hackathon maakt [DMS](https://www.dmsadvies.nl) data over een drietalthema's beschikbaar voor de boerderij "Hobelman". "Hobelman" ligt in de buurt van "De Marke".
 
-- Gewas monsters - gegevens over o.a. Kalium, Nitraat, Calcium en vele andere gehaaltes in het gewas rondom "De Marke"
-- Bodem monsters - gegevens over o.a. Kalium, pH, stikstof en vele andere gehaaltes in de bodem rondom "De Marke" 
+- Gewas monsters - gegevens over o.a. Kalium, Nitraat, Calcium en vele andere gehaaltes in het gewas rondom "Hobelman"
+- Bodem monsters - gegevens over o.a. Kalium, pH, stikstof en vele andere gehaaltes in de bodem rondom "Hobelman" 
 - [Kringloopwijzer](https://www.verantwoordeveehouderij.nl/nl/mijnkringloopwijzer/KringloopWijzer-6.htm) gegevens voor de jaren 2015, 2016 en 2017
 
 ### Overige bronnen
