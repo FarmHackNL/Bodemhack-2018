@@ -30,8 +30,10 @@ Tijdens de hackathon zal data beschikbaar zijn over
 
 ### Vitens
 
-- [vitens.lizard.net](vitens.lizard.net) - grondwaterkwantiteitsgegevens en de locaties van de meetpunten. **Merk op**: de data in deze portal komt uit een [publike beschikbare API](https://vitens.lizard.net/api/v3/timeseries/?end=1527640000218&min_points=320&start=1464481600218&uuid=e702b82c-af42-47a4-8e12-e23b4e2e8f04).
-- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie [data/Vitens/DATALAB documentatie.pptx](https://github.com/FarmHackNL/Bodemhack-2018/raw/master/data/Vitens/DATALAB%20documentatie.pptx) voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt. 
+- [vitens.lizard.net](vitens.lizard.net) - grondwaterkwantiteitsgegevens en de locaties van de meetpunten. **Merk op**: de data in deze portal komt uit een [publike beschikbare API](https://vitens.lizard.net/api/v3/timeseries/?end=1527640000218&min_points=320&start=1464481600218&uuid=e702b82c-af42-47a4-8e12-e23b4e2e8f04). De API kan ook via een [Python wrapper](https://github.com/Vitens/pylizard ) benaderd worden.
+- Export uit DATALAB voor februari 2018 - grondwaterkwaliteitsgegevens per puilbuis en pompput (inclusief historie). Zie [data/Vitens/DATALAB documentatie.pptx](https://github.com/FarmHackNL/Bodemhack-2018/raw/master/data/Vitens/DATALAB%20documentatie.pptx) voor een overzicht van de beschikbare gegevens. De dataset wordt tijdens hackathon beschikbaar gemaakt.
+- Alle Vitens onttrekkingsputten
+- Alle winvergunningen. Let op: niet alle vergunning worden volledig benut worden; de werkelijke onttrekking kan lager zijn.
 
 ### WUR 
 
